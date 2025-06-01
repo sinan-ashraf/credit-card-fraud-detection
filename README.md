@@ -26,7 +26,7 @@ We built a robust pipeline and tuned it to handle the imbalanced dataset, achiev
 ## 🚀 How to Use
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/credit-card-fraud-detection.git
+    git clone https://github.com/sinan-ashraf/credit-card-fraud-detection.git
     ```
 2. Open the notebook:
     ```bash
