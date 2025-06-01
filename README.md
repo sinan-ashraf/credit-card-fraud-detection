@@ -40,8 +40,6 @@ We built a robust pipeline and tuned it to handle the imbalanced dataset, achiev
 ✅ GridSearchCV helps find the best model settings  
 ✅ Visualization makes model performance clearer
 
-## 📈 Example ROC Curve
-*(Include an image if you’d like!)*
 
 ## 📜 License
 This project is open-source and free to use for educational purposes.
